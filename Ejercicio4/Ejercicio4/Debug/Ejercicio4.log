@@ -1,0 +1,3 @@
+﻿  Ejercicio4.cpp
+D:\UNSA-Virtual\PS\c++\PRACTICA3\Ejercicio4\Ejercicio4\Ejercicio4.cpp(14,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ejercicio4.vcxproj -> D:\UNSA-Virtual\PS\c++\PRACTICA3\Ejercicio4\Debug\Ejercicio4.exe
